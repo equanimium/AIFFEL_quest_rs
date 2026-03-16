@@ -1,3 +1,12 @@
+# AIFFEL Artificial Intelligence Researcher Bootcamp repository
+
+## Introduction
+This is a repository for south korean [artificial intelligecne bootcamp program](https://aiffel.io/airesearcher).
+Directory within this repository would contain each code and program studied and explored  within coursework.
+
+
+## coursework structure
+
 ```bash
 AIFFEL_quest_rs
 ├── MainQuest
