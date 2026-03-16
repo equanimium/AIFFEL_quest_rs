@@ -1,13 +1,3 @@
-# AIFFEL Artificial Intelligence Researcher Bootcamp repository
-
-## Introduction
-This is a repository for south korean [artificial intelligecne bootcamp program](https://aiffel.io/airesearcher).
-Directory within this repository would contain each code and program studied and explored  within coursework.
-
-
-## coursework structure
-
-```bash
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
@@ -25,15 +15,6 @@ AIFFEL_quest_rs
 │   ├── Quest05
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Quest06
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest07
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Quest08
-│       ├── .ipynb
-│       └── README.md
 │ 
 ├── Exploration
 │   ├── Ex01
@@ -54,7 +35,10 @@ AIFFEL_quest_rs
 │   ├── Ex06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   └── Ex07
+│   ├── Ex07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Ex08
 │       ├── .ipynb
 │       └── REAiDME.md
 │ 
@@ -86,8 +70,4 @@ AIFFEL_quest_rs
     └── Ex09
         ├── .ipynb
         └── REAiDME.md
-
-```
-
-
 
