@@ -1,3 +1,10 @@
+# AIFFEL artificial intelligence bootcamp project repository
+
+## Introduction
+This is a repository that contains project folders and evaluation material for south korea artificial intelligecne bootcamp [AIFFEL](https://aiffel.io/airesearcher)
+
+
+```bash
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
@@ -70,4 +77,4 @@ AIFFEL_quest_rs
     └── Ex09
         ├── .ipynb
         └── REAiDME.md
-
+```
